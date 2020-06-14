@@ -1,0 +1,43 @@
+html {
+    background-color: #b7e9a6;
+    text-align: center;
+}
+
+#video {
+    background-color: #e8ccfa;
+    text-align: center;
+    border-radius: 30%;
+}
+
+#info {
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    background-color: #e8ccfa;
+}
+
+h1 {
+    color: #8D6065;
+    -webkit-text-stroke: 2px blue;
+    color: #673ab7;
+}
+
+#formulario {
+    background-color: #e8ccfa;
+    text-align: center;
+    border-radius: 30%;
+}
+
+table {
+    margin: auto;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 3px solid purple;
+}
+
+th,
+td {
+    padding: 20px;
+}
